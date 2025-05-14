@@ -1,0 +1,2 @@
+# AuRG
+Automatic recommendation generator
